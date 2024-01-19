@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Movies</title>
+
+    <link rel="stylesheet" type="text/css" href="imdbstyles.css" />
+    <link rel="icon" type="image/png" href="./assets/4373222_imdb_logo_logos_icon.png" />
+
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;600;700;800&display=swap" rel="stylesheet">
+    <script src="https://kit.fontawesome.com/d5635d350d.js" crossorigin="anonymous"></script>
+</head>
+
+<body onload="findMovie()">
+    <!-- This is a header section -->
+    <div class="headers">
+        <div class="container">
+            <div>
+                <h1>Movie Details</h1>
+            </div>
+            <div class="link">
+                <span><a href="index.html">Back to Previous</a></span>
+            </div>
+        </div>
+        <div class="search">
+            <input type="text" placeholder="Search the Movie...">
+            <button type="submit"><i class="fa-solid fa-magnifying-glass"></i></button>
+        </div>
+    </div>
+    <!-- This area contain the main section of the page -->
+    <div class="mains">
+        <div class="moviecontainers">
+            <!-- In this area movie are displayed-->
+        </div>
+    </div>
+    <script src="imdbscript.js"></script>
+</body>
+
+</html>
