@@ -23,6 +23,8 @@ GET http://www.omdbapi.com/?i=tt3896198&apikey=32bc368e
 ---
 ![Screenshot (125)](https://github.com/Aadiii01/IMDBClone/assets/134622355/2ce0f796-6fef-4c05-b06c-161ce841d443)
 ---
+![Screenshot (129)](https://github.com/Aadiii01/ToDoList/assets/134622355/cd6e1d20-8273-45b7-9955-7d04a82ff54b)
+---
 ![Screenshot (126)](https://github.com/Aadiii01/IMDBClone/assets/134622355/374d363b-beb6-45f0-8947-ec457682fa75)
 ---
 ![Screenshot (127)](https://github.com/Aadiii01/IMDBClone/assets/134622355/571ac003-c321-4dfa-8265-955f0983624b)
@@ -31,8 +33,6 @@ GET http://www.omdbapi.com/?i=tt3896198&apikey=32bc368e
 ---
 ---
 
-- Git Repository link: 
-- Video link: 
-- Hosted link: 
-
-
+- Git Repository link: https://github.com/Aadiii01/IMDBClone
+- Video link: https://youtu.be/CV-mOJ1AJMc
+- Hosted link: https://imdb-clone-azure-chi.vercel.app/
